@@ -27,7 +27,7 @@ JobLinker is a web application designed to streamline the hiring process by auto
 
 ## ScreenShots
 ![Table Result](https://github.com/STAAHMED11/JobLinker/blob/66ba9830aebe90d0530291c249b26762672ccacb/job_img0.png)
-![Candidature Profile](https://github.com/STAAHMED11/JobLinker/blob/c4a019bd4532205a5ee045c0e9b73d12959f7ff0/job_img2.png)
+![Candidature Profile](https://github.com/STAAHMED11/JobLinker/blob/c4a019bd4532205a5ee045c0e9b73d12959f7ff0/job_img1.png)
 ## Contact
 
 For questions or support, feel free to contact me:
