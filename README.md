@@ -25,7 +25,9 @@ JobLinker is a web application designed to streamline the hiring process by auto
 3. Let JobLinker automatically parse and match candidates to job offers.
 4. Review the results and use the scoring system to identify the best candidates.
 
-
+## ScreenShots
+![Table Result](https://github.com/STAAHMED11/JobLinker/blob/66ba9830aebe90d0530291c249b26762672ccacb/job_img0.png)
+![Candidature Profile](https://github.com/STAAHMED11/JobLinker/blob/66ba9830aebe90d0530291c249b26762672ccacb/job_img1.png)
 ## Contact
 
 For questions or support, feel free to contact me:
